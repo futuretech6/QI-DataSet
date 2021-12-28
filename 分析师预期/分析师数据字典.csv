@@ -1,0 +1,6 @@
+SecuCode,股票代码
+TradingDay,交易日期
+eps_est1,一致预期EPS，单位：元
+npyoy2_est,2年预期净利复合增长率
+npyoy_est,一致预期净利同比
+RPT_DATE,预测报告年度

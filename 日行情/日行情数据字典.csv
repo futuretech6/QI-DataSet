@@ -1,0 +1,15 @@
+SecuCode,股票代码
+TradingDay,交易日期
+ClosePrice,收盘价
+OpenPrice,开盘价
+HighPrice,最高价
+LowPrice,最低价
+PrevClosePrice,昨收jia
+TradingVolumes,成交量
+TurnoverValue,成交额
+ret,日收益率
+NonRestrictedShares,非限售流通股本
+AFloats,A股流通股本
+ZZ500Ret,中证500日收益率
+Ashares,A股总股本
+PTFlag,是否停牌，1表示停牌，0表示正常交易
